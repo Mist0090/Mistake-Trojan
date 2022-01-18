@@ -1,2 +1,2 @@
 # Mistake-Trojan
-僕が初めて作ったトロイの木馬です。
+僕が初めて作ったMistake seriesのトロイの木馬です。
